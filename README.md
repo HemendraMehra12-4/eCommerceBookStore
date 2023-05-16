@@ -2,7 +2,7 @@
 
 MYBOOK E-commerce Web Application built using MERN Stack. It has many features like buying products, managing orders & users by admin. Along with Cart Checkout, Payment Gateway Integration, and Many more!
 
-#### `How to run locally?`
+## `How to run locally?`
 
 cd MYBOOK
 npm install
