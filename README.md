@@ -4,10 +4,10 @@ MYBOOK E-commerce Web Application built using MERN Stack. It has many features l
 
 ## `How to run locally?`
 
-cd MYBOOK
-npm install
-cd frontend
-npm install
+cd MYBOOK<br>
+npm install<br>
+cd frontend<br>
+npm install<br>
 
 # To run server you must have .env file in root project directory
 
